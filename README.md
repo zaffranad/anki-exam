@@ -1,5 +1,12 @@
-# Anki
+# How-To
 
++ run main class with one argument: the path of file which will contain the 
+cards descriptions.
++ program will show question and answer and ask the user for each one to choose between red, orange and green box.
++ That's all!
+
+
+#Anki
 Anki is a spaced repetition flashcard program. Anki (暗記) is the Japanese word for memorization.
 
 A student is proposed a **Deck** of cards, one face of the **card** contains a **question**, the other face the **answer**.
