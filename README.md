@@ -6,7 +6,7 @@ cards descriptions.
 + That's all!
 
 
-#Anki
+# Anki
 Anki is a spaced repetition flashcard program. Anki (暗記) is the Japanese word for memorization.
 
 A student is proposed a **Deck** of cards, one face of the **card** contains a **question**, the other face the **answer**.
